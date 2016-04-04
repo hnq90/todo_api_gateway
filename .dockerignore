@@ -1,0 +1,6 @@
+.gitignore
+.git
+CHANGELOG.md
+README.md
+docs
+certs
